@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clif-trauma"
+version = "0.1.0"
+description = "CLIF trauma ventilation cohort and intervention pipeline"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "pandas>=2.2",
+  "pyarrow>=15.0",
+]
+
+[project.scripts]
+clif-trauma = "clif_trauma.cli:main"
+clif-trauma-report = "clif_trauma.report:main"
+
+[tool.setuptools.package-dir]
+"" = "src"
+
+[tool.setuptools.packages.find]
+where = ["src"]

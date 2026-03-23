@@ -1,0 +1,8 @@
+match_column,match_value,normalized_unit,is_sicu,is_ward,is_procedural,is_ed
+location_category,ed,ED,false,false,false,true
+location_type,sicu,SICU,true,false,false,false
+location_name,Surgical ICU,SICU,true,false,false,false
+location_category,ward,WARD,false,true,false,false
+location_category,floor,WARD,false,true,false,false
+location_category,or,PROCEDURAL,false,false,true,false
+location_category,procedure,PROCEDURAL,false,false,true,false

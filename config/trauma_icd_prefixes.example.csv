@@ -1,0 +1,10 @@
+diagnosis_code_format,prefix,description
+ICD10CM,S,Injury to body regions
+ICD10CM,T07,Unspecified multiple injuries
+ICD10CM,T14,Injury of unspecified body region
+ICD10CM,T20,Burns and corrosions of head and neck
+ICD10CM,T79,Certain early complications of trauma
+ICD9CM,800,Fracture of skull
+ICD9CM,801,Fracture of base of skull
+ICD9CM,850,Concussion
+ICD9CM,860,Traumatic pneumothorax and hemothorax

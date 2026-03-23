@@ -1,0 +1,11 @@
+diagnosis_code_format,diagnosis_code,diagnosis_name,source
+ICD10CM,S06.6X9A,"Traumatic subarachnoid hemorrhage with loss of consciousness of unspecified duration, initial encounter","CDC ICD-10-CM Browser Tool FY2024"
+ICD10CM,S27.2XXA,"Traumatic hemopneumothorax, initial encounter","CDC ICD-10-CM Browser Tool FY2024"
+ICD10CM,S06.5X9A,"Traumatic subdural hemorrhage with loss of consciousness of unspecified duration, initial encounter","CDC ICD-10-CM Browser Tool FY2024"
+ICD10CM,S06.5X7A,"Traumatic subdural hemorrhage with loss of consciousness of any duration with death due to brain injury before regaining consciousness, initial encounter","CDC ICD-10-CM Browser Tool FY2024"
+ICD10CM,S06.6X7A,"Traumatic subarachnoid hemorrhage with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, initial encounter","CDC ICD-10-CM Browser Tool FY2024"
+ICD10CM,S06.2X9A,"Diffuse traumatic brain injury with loss of consciousness of unspecified duration, initial encounter","CDC ICD-10-CM Browser Tool FY2024"
+ICD10CM,S36.116A,"Major laceration of liver, initial encounter","CDC ICD-10-CM Browser Tool FY2024"
+ICD10CM,S02.66XB,"Fracture of symphysis of mandible, initial encounter for open fracture","CDC ICD-10-CM Browser Tool FY2024"
+ICD10CM,S02.602B,"Fracture of unspecified part of body of left mandible, initial encounter for open fracture","CDC ICD-10-CM Browser Tool FY2024"
+ICD10CM,S06.6XAA,"Traumatic subarachnoid hemorrhage with loss of consciousness status unknown, initial encounter","CDC ICD-10-CM Browser Tool FY2024"
