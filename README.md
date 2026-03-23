@@ -9,6 +9,12 @@ This project builds the trauma ventilation cohort described in the PRD and write
 - summary tables for cohort flow, handoff differences, intervention rates, diagnoses, and outcomes
 - collaborator-facing figures and an HTML report
 
+## Public Preview
+
+The current unit-trajectory sankey from the staged real-data report is embedded below so it is visible directly on the public GitHub repo page.
+
+![Unit trajectory sankey](docs/assets/imv_trajectory_sankey.svg)
+
 ## Inputs
 
 Place the CLIF tables below in one directory as `.csv`, `.csv.gz`, `.tsv`, or `.parquet` files named after the table. Both bare names like `adt.parquet` and CLIF export names like `clif_adt.parquet` are supported:

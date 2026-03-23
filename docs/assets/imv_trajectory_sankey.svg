@@ -1,0 +1,363 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="5160" height="820" viewBox="0 0 5160 820">
+<rect x="0.0" y="0.0" width="5160.0" height="820.0" fill="#f8fafc" rx="8" />
+<text x="40.0" y="38.0" fill="#0f172a" font-size="24" font-family="Helvetica, Arial, sans-serif" font-weight="700" text-anchor="start">Unit trajectory sankey</text>
+<text x="40.0" y="66.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Raw ADT-derived location sequences for the final mechanically ventilated trauma cohort</text>
+<text x="40.0" y="88.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Includes ICU -&gt; OR -&gt; ICU returns and ED -&gt; OR bridge cases when they occur in the source trajectory.</text>
+<path d="M96.0,110.0 C190.5,110.0 226.5,110.0 321.0,110.0 L321.0,270.1 C226.5,270.1 190.5,270.1 96.0,270.1 Z" fill="#c46210" opacity="0.35" stroke="none" />
+<path d="M96.0,270.1 C190.5,270.1 226.5,288.1 321.0,288.1 L321.0,790.0 C226.5,790.0 190.5,772.0 96.0,772.0 Z" fill="#c46210" opacity="0.35" stroke="none" />
+<path d="M347.0,110.0 C441.5,110.0 477.5,347.2 572.0,347.2 L572.0,507.4 C477.5,507.4 441.5,270.1 347.0,270.1 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M347.0,288.1 C441.5,288.1 477.5,110.0 572.0,110.0 L572.0,329.2 C477.5,329.2 441.5,507.4 347.0,507.4 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M347.0,507.4 C441.5,507.4 477.5,525.4 572.0,525.4 L572.0,723.1 C477.5,723.1 441.5,705.1 347.0,705.1 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M347.0,705.1 C441.5,705.1 477.5,741.1 572.0,741.1 L572.0,773.3 C477.5,773.3 441.5,737.3 347.0,737.3 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M347.0,737.3 C441.5,737.3 477.5,791.3 572.0,791.3 L572.0,844.0 C477.5,844.0 441.5,790.0 347.0,790.0 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M598.0,110.0 C692.5,110.0 728.5,261.3 823.0,261.3 L823.0,456.9 C728.5,456.9 692.5,305.6 598.0,305.6 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M598.0,305.6 C692.5,305.6 728.5,481.3 823.0,481.3 L823.0,493.1 C728.5,493.1 692.5,317.4 598.0,317.4 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M598.0,317.4 C692.5,317.4 728.5,736.5 823.0,736.5 L823.0,748.4 C728.5,748.4 692.5,329.2 598.0,329.2 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M598.0,347.2 C692.5,347.2 728.5,116.4 823.0,116.4 L823.0,207.8 C728.5,207.8 692.5,438.6 598.0,438.6 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M598.0,438.6 C692.5,438.6 728.5,493.1 823.0,493.1 L823.0,546.9 C728.5,546.9 692.5,492.3 598.0,492.3 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M598.0,492.3 C692.5,492.3 728.5,564.9 823.0,564.9 L823.0,565.9 C728.5,565.9 692.5,493.4 598.0,493.4 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M598.0,493.4 C692.5,493.4 728.5,748.4 823.0,748.4 L823.0,762.3 C728.5,762.3 692.5,507.4 598.0,507.4 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M598.0,525.4 C692.5,525.4 728.5,207.8 823.0,207.8 L823.0,243.3 C728.5,243.3 692.5,560.8 598.0,560.8 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M598.0,560.8 C692.5,560.8 728.5,456.9 823.0,456.9 L823.0,463.3 C728.5,463.3 692.5,567.3 598.0,567.3 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M598.0,567.3 C692.5,567.3 728.5,565.9 823.0,565.9 L823.0,718.5 C728.5,718.5 692.5,719.9 598.0,719.9 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M598.0,719.9 C692.5,719.9 728.5,762.3 823.0,762.3 L823.0,765.6 C728.5,765.6 692.5,723.1 598.0,723.1 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M849.0,116.4 C943.5,116.4 979.5,324.7 1074.0,324.7 L1074.0,413.9 C979.5,413.9 943.5,205.6 849.0,205.6 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M849.0,205.6 C943.5,205.6 979.5,438.3 1074.0,438.3 L1074.0,471.6 C979.5,471.6 943.5,239.0 849.0,239.0 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M849.0,239.0 C943.5,239.0 979.5,662.4 1074.0,662.4 L1074.0,666.7 C979.5,666.7 943.5,243.3 849.0,243.3 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M849.0,261.3 C943.5,261.3 979.5,207.8 1074.0,207.8 L1074.0,287.3 C979.5,287.3 943.5,340.8 849.0,340.8 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M849.0,340.8 C943.5,340.8 979.5,471.6 1074.0,471.6 L1074.0,576.9 C979.5,576.9 943.5,446.1 849.0,446.1 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M849.0,446.1 C943.5,446.1 979.5,594.9 1074.0,594.9 L1074.0,604.6 C979.5,604.6 943.5,455.8 849.0,455.8 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M849.0,455.8 C943.5,455.8 979.5,666.7 1074.0,666.7 L1074.0,674.2 C979.5,674.2 943.5,463.3 849.0,463.3 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M849.0,481.3 C943.5,481.3 979.5,287.3 1074.0,287.3 L1074.0,306.7 C979.5,306.7 943.5,500.6 849.0,500.6 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M849.0,500.6 C943.5,500.6 979.5,413.9 1074.0,413.9 L1074.0,420.3 C979.5,420.3 943.5,507.1 849.0,507.1 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M849.0,507.1 C943.5,507.1 979.5,604.6 1074.0,604.6 L1074.0,644.4 C979.5,644.4 943.5,546.9 849.0,546.9 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M1100.0,207.8 C1194.5,207.8 1230.5,329.5 1325.0,329.5 L1325.0,410.1 C1230.5,410.1 1194.5,288.4 1100.0,288.4 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M1100.0,288.4 C1194.5,288.4 1230.5,435.6 1325.0,435.6 L1325.0,453.9 C1230.5,453.9 1194.5,306.7 1100.0,306.7 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M1100.0,324.7 C1194.5,324.7 1230.5,238.4 1325.0,238.4 L1325.0,279.3 C1230.5,279.3 1194.5,365.5 1100.0,365.5 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M1100.0,365.5 C1194.5,365.5 1230.5,453.9 1325.0,453.9 L1325.0,503.3 C1230.5,503.3 1194.5,414.9 1100.0,414.9 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M1100.0,414.9 C1194.5,414.9 1230.5,521.3 1325.0,521.3 L1325.0,523.5 C1230.5,523.5 1194.5,417.1 1100.0,417.1 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M1100.0,417.1 C1194.5,417.1 1230.5,640.4 1325.0,640.4 L1325.0,643.6 C1230.5,643.6 1194.5,420.3 1100.0,420.3 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M1100.0,438.3 C1194.5,438.3 1230.5,279.3 1325.0,279.3 L1325.0,311.5 C1230.5,311.5 1194.5,470.6 1100.0,470.6 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M1100.0,470.6 C1194.5,470.6 1230.5,410.1 1325.0,410.1 L1325.0,417.6 C1230.5,417.6 1194.5,478.1 1100.0,478.1 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M1100.0,478.1 C1194.5,478.1 1230.5,523.5 1325.0,523.5 L1325.0,622.4 C1230.5,622.4 1194.5,576.9 1100.0,576.9 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M1351.0,238.4 C1445.5,238.4 1481.5,359.1 1576.0,359.1 L1576.0,402.0 C1481.5,402.0 1445.5,281.4 1351.0,281.4 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M1351.0,281.4 C1445.5,281.4 1481.5,425.4 1576.0,425.4 L1576.0,455.5 C1481.5,455.5 1445.5,311.5 1351.0,311.5 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M1351.0,329.5 C1445.5,329.5 1481.5,290.5 1576.0,290.5 L1576.0,322.8 C1481.5,322.8 1445.5,361.7 1351.0,361.7 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M1351.0,361.7 C1445.5,361.7 1481.5,455.5 1576.0,455.5 L1576.0,501.7 C1481.5,501.7 1445.5,408.0 1351.0,408.0 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M1351.0,408.0 C1445.5,408.0 1481.5,519.7 1576.0,519.7 L1576.0,525.1 C1481.5,525.1 1445.5,413.3 1351.0,413.3 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M1351.0,413.3 C1445.5,413.3 1481.5,587.2 1576.0,587.2 L1576.0,591.5 C1481.5,591.5 1445.5,417.6 1351.0,417.6 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M1351.0,435.6 C1445.5,435.6 1481.5,322.8 1576.0,322.8 L1576.0,341.1 C1481.5,341.1 1445.5,453.9 1351.0,453.9 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M1351.0,453.9 C1445.5,453.9 1481.5,402.0 1576.0,402.0 L1576.0,407.4 C1481.5,407.4 1445.5,459.3 1351.0,459.3 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M1351.0,459.3 C1445.5,459.3 1481.5,525.1 1576.0,525.1 L1576.0,569.2 C1481.5,569.2 1445.5,503.3 1351.0,503.3 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M1602.0,290.5 C1696.5,290.5 1732.5,384.2 1827.0,384.2 L1827.0,417.5 C1732.5,417.5 1696.5,323.9 1602.0,323.9 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M1602.0,323.9 C1696.5,323.9 1732.5,443.0 1827.0,443.0 L1827.0,460.2 C1732.5,460.2 1696.5,341.1 1602.0,341.1 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M1602.0,359.1 C1696.5,359.1 1732.5,327.5 1827.0,327.5 L1827.0,345.8 C1732.5,345.8 1696.5,377.3 1602.0,377.3 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M1602.0,377.3 C1696.5,377.3 1732.5,460.2 1827.0,460.2 L1827.0,482.8 C1732.5,482.8 1696.5,399.9 1602.0,399.9 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M1602.0,399.9 C1696.5,399.9 1732.5,500.8 1827.0,500.8 L1827.0,507.2 C1732.5,507.2 1696.5,406.3 1602.0,406.3 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M1602.0,406.3 C1696.5,406.3 1732.5,572.5 1827.0,572.5 L1827.0,573.6 C1732.5,573.6 1696.5,407.4 1602.0,407.4 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M1602.0,425.4 C1696.5,425.4 1732.5,308.4 1827.0,308.4 L1827.0,309.5 C1732.5,309.5 1696.5,426.5 1602.0,426.5 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M1602.0,426.5 C1696.5,426.5 1732.5,345.8 1827.0,345.8 L1827.0,366.2 C1732.5,366.2 1696.5,446.9 1602.0,446.9 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M1602.0,446.9 C1696.5,446.9 1732.5,417.5 1827.0,417.5 L1827.0,425.0 C1732.5,425.0 1696.5,454.4 1602.0,454.4 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M1602.0,454.4 C1696.5,454.4 1732.5,507.2 1827.0,507.2 L1827.0,554.5 C1732.5,554.5 1696.5,501.7 1602.0,501.7 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M1853.0,308.4 C1947.5,308.4 1983.5,488.0 2078.0,488.0 L2078.0,489.1 C1983.5,489.1 1947.5,309.5 1853.0,309.5 Z" fill="#c46210" opacity="0.35" stroke="none" />
+<path d="M1853.0,327.5 C1947.5,327.5 1983.5,389.7 2078.0,389.7 L2078.0,409.0 C1983.5,409.0 1947.5,346.8 1853.0,346.8 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M1853.0,346.8 C1947.5,346.8 1983.5,431.3 2078.0,431.3 L2078.0,450.7 C1983.5,450.7 1947.5,366.2 1853.0,366.2 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M1853.0,384.2 C1947.5,384.2 1983.5,344.8 2078.0,344.8 L2078.0,357.7 C1983.5,357.7 1947.5,397.1 1853.0,397.1 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M1853.0,397.1 C1947.5,397.1 1983.5,450.7 2078.0,450.7 L2078.0,470.0 C1983.5,470.0 1947.5,416.4 1853.0,416.4 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M1853.0,416.4 C1947.5,416.4 1983.5,489.1 2078.0,489.1 L2078.0,495.5 C1983.5,495.5 1947.5,422.9 1853.0,422.9 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M1853.0,422.9 C1947.5,422.9 1983.5,535.0 2078.0,535.0 L2078.0,537.2 C1983.5,537.2 1947.5,425.0 1853.0,425.0 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M1853.0,443.0 C1947.5,443.0 1983.5,357.7 2078.0,357.7 L2078.0,371.7 C1983.5,371.7 1947.5,457.0 1853.0,457.0 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M1853.0,457.0 C1947.5,457.0 1983.5,409.0 2078.0,409.0 L2078.0,413.3 C1983.5,413.3 1947.5,461.3 1853.0,461.3 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M1853.0,461.3 C1947.5,461.3 1983.5,495.5 2078.0,495.5 L2078.0,517.0 C1983.5,517.0 1947.5,482.8 1853.0,482.8 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M2104.0,344.8 C2198.5,344.8 2234.5,406.7 2329.0,406.7 L2329.0,418.6 C2234.5,418.6 2198.5,356.6 2104.0,356.6 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M2104.0,356.6 C2198.5,356.6 2234.5,437.6 2329.0,437.6 L2329.0,452.7 C2234.5,452.7 2198.5,371.7 2104.0,371.7 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M2104.0,389.7 C2198.5,389.7 2234.5,369.4 2329.0,369.4 L2329.0,376.9 C2234.5,376.9 2198.5,397.2 2104.0,397.2 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M2104.0,397.2 C2198.5,397.2 2234.5,452.7 2329.0,452.7 L2329.0,466.7 C2234.5,466.7 2198.5,411.2 2104.0,411.2 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M2104.0,411.2 C2198.5,411.2 2234.5,484.7 2329.0,484.7 L2329.0,486.8 C2234.5,486.8 2198.5,413.3 2104.0,413.3 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M2104.0,431.3 C2198.5,431.3 2234.5,376.9 2329.0,376.9 L2329.0,388.7 C2234.5,388.7 2198.5,443.1 2104.0,443.1 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M2104.0,443.1 C2198.5,443.1 2234.5,418.6 2329.0,418.6 L2329.0,419.6 C2234.5,419.6 2198.5,444.2 2104.0,444.2 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M2104.0,444.2 C2198.5,444.2 2234.5,486.8 2329.0,486.8 L2329.0,512.6 C2234.5,512.6 2198.5,470.0 2104.0,470.0 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M2355.0,369.4 C2449.5,369.4 2485.5,410.0 2580.0,410.0 L2580.0,417.5 C2485.5,417.5 2449.5,376.9 2355.0,376.9 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M2355.0,376.9 C2449.5,376.9 2485.5,436.6 2580.0,436.6 L2580.0,448.4 C2485.5,448.4 2449.5,388.7 2355.0,388.7 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M2355.0,406.7 C2449.5,406.7 2485.5,383.4 2580.0,383.4 L2580.0,384.4 C2485.5,384.4 2449.5,407.8 2355.0,407.8 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M2355.0,407.8 C2449.5,407.8 2485.5,448.4 2580.0,448.4 L2580.0,454.8 C2485.5,454.8 2449.5,414.3 2355.0,414.3 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M2355.0,414.3 C2449.5,414.3 2485.5,472.8 2580.0,472.8 L2580.0,478.2 C2485.5,478.2 2449.5,419.6 2355.0,419.6 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M2355.0,437.6 C2449.5,437.6 2485.5,384.4 2580.0,384.4 L2580.0,392.0 C2485.5,392.0 2449.5,445.2 2355.0,445.2 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M2355.0,445.2 C2449.5,445.2 2485.5,417.5 2580.0,417.5 L2580.0,418.6 C2485.5,418.6 2449.5,446.2 2355.0,446.2 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M2355.0,446.2 C2449.5,446.2 2485.5,478.2 2580.0,478.2 L2580.0,498.6 C2485.5,498.6 2449.5,466.7 2355.0,466.7 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M2606.0,383.4 C2700.5,383.4 2736.5,416.4 2831.0,416.4 L2831.0,417.5 C2736.5,417.5 2700.5,384.4 2606.0,384.4 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M2606.0,384.4 C2700.5,384.4 2736.5,436.6 2831.0,436.6 L2831.0,444.1 C2736.5,444.1 2700.5,392.0 2606.0,392.0 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M2606.0,410.0 C2700.5,410.0 2736.5,396.3 2831.0,396.3 L2831.0,397.3 C2736.5,397.3 2700.5,411.0 2606.0,411.0 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M2606.0,411.0 C2700.5,411.0 2736.5,444.1 2831.0,444.1 L2831.0,449.5 C2736.5,449.5 2700.5,416.4 2606.0,416.4 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M2606.0,416.4 C2700.5,416.4 2736.5,467.5 2831.0,467.5 L2831.0,469.6 C2736.5,469.6 2700.5,418.6 2606.0,418.6 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M2606.0,436.6 C2700.5,436.6 2736.5,397.3 2831.0,397.3 L2831.0,398.4 C2736.5,398.4 2700.5,437.6 2606.0,437.6 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M2606.0,437.6 C2700.5,437.6 2736.5,417.5 2831.0,417.5 L2831.0,418.6 C2736.5,418.6 2700.5,438.7 2606.0,438.7 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M2606.0,438.7 C2700.5,438.7 2736.5,469.6 2831.0,469.6 L2831.0,485.7 C2736.5,485.7 2700.5,454.8 2606.0,454.8 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M2857.0,396.3 C2951.5,396.3 2987.5,428.8 3082.0,428.8 L3082.0,429.9 C2987.5,429.9 2951.5,397.3 2857.0,397.3 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M2857.0,397.3 C2951.5,397.3 2987.5,448.9 3082.0,448.9 L3082.0,450.0 C2987.5,450.0 2951.5,398.4 2857.0,398.4 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M2857.0,416.4 C2951.5,416.4 2987.5,405.4 3082.0,405.4 L3082.0,406.5 C2987.5,406.5 2951.5,417.5 2857.0,417.5 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M2857.0,417.5 C2951.5,417.5 2987.5,468.0 3082.0,468.0 L3082.0,469.1 C2987.5,469.1 2951.5,418.6 2857.0,418.6 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M2857.0,436.6 C2951.5,436.6 2987.5,406.5 3082.0,406.5 L3082.0,410.8 C2987.5,410.8 2951.5,440.9 2857.0,440.9 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M2857.0,440.9 C2951.5,440.9 2987.5,429.9 3082.0,429.9 L3082.0,430.9 C2987.5,430.9 2951.5,441.9 2857.0,441.9 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M2857.0,441.9 C2951.5,441.9 2987.5,469.1 3082.0,469.1 L3082.0,476.6 C2987.5,476.6 2951.5,449.5 2857.0,449.5 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M3108.0,405.4 C3202.5,405.4 3238.5,429.9 3333.0,429.9 L3333.0,430.9 C3238.5,430.9 3202.5,406.5 3108.0,406.5 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M3108.0,406.5 C3202.5,406.5 3238.5,448.9 3333.0,448.9 L3333.0,453.2 C3238.5,453.2 3202.5,410.8 3108.0,410.8 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M3108.0,428.8 C3202.5,428.8 3238.5,409.7 3333.0,409.7 L3333.0,411.9 C3238.5,411.9 3202.5,430.9 3108.0,430.9 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M3108.0,448.9 C3202.5,448.9 3238.5,471.2 3333.0,471.2 L3333.0,472.3 C3238.5,472.3 3202.5,450.0 3108.0,450.0 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M3359.0,409.7 C3453.5,409.7 3489.5,431.5 3584.0,431.5 L3584.0,433.6 C3489.5,433.6 3453.5,411.9 3359.0,411.9 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M3359.0,429.9 C3453.5,429.9 3489.5,451.6 3584.0,451.6 L3584.0,452.7 C3489.5,452.7 3453.5,430.9 3359.0,430.9 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M3359.0,448.9 C3453.5,448.9 3489.5,410.2 3584.0,410.2 L3584.0,413.5 C3489.5,413.5 3453.5,452.1 3359.0,452.1 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M3359.0,452.1 C3453.5,452.1 3489.5,470.7 3584.0,470.7 L3584.0,471.8 C3489.5,471.8 3453.5,453.2 3359.0,453.2 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M3610.0,410.2 C3704.5,410.2 3740.5,428.8 3835.0,428.8 L3835.0,432.0 C3740.5,432.0 3704.5,413.5 3610.0,413.5 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M3610.0,431.5 C3704.5,431.5 3740.5,432.0 3835.0,432.0 L3835.0,434.1 C3740.5,434.1 3704.5,433.6 3610.0,433.6 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M3610.0,451.6 C3704.5,451.6 3740.5,452.1 3835.0,452.1 L3835.0,453.2 C3740.5,453.2 3704.5,452.7 3610.0,452.7 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M3861.0,428.8 C3955.5,428.8 3991.5,420.3 4086.0,420.3 L4086.0,423.5 C3991.5,423.5 3955.5,432.0 3861.0,432.0 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M3861.0,432.0 C3955.5,432.0 3991.5,441.5 4086.0,441.5 L4086.0,442.6 C3991.5,442.6 3955.5,433.1 3861.0,433.1 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M3861.0,433.1 C3955.5,433.1 3991.5,460.6 4086.0,460.6 L4086.0,461.7 C3991.5,461.7 3955.5,434.1 3861.0,434.1 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M4112.0,420.3 C4206.5,420.3 4242.5,438.9 4337.0,438.9 L4337.0,442.1 C4242.5,442.1 4206.5,423.5 4112.0,423.5 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M4112.0,441.5 C4206.5,441.5 4242.5,442.1 4337.0,442.1 L4337.0,443.1 C4242.5,443.1 4206.5,442.6 4112.0,442.6 Z" fill="#0f766e" opacity="0.35" stroke="none" />
+<path d="M4363.0,438.9 C4457.5,438.9 4493.5,429.9 4588.0,429.9 L4588.0,430.9 C4493.5,430.9 4457.5,439.9 4363.0,439.9 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M4363.0,439.9 C4457.5,439.9 4493.5,448.9 4588.0,448.9 L4588.0,452.1 C4493.5,452.1 4457.5,443.1 4363.0,443.1 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<path d="M4614.0,429.9 C4708.5,429.9 4744.5,440.5 4839.0,440.5 L4839.0,441.5 C4744.5,441.5 4708.5,430.9 4614.0,430.9 Z" fill="#8b5cf6" opacity="0.35" stroke="none" />
+<path d="M4865.0,440.5 C4959.5,440.5 4995.5,440.5 5090.0,440.5 L5090.0,441.5 C4995.5,441.5 4959.5,441.5 4865.0,441.5 Z" fill="#2563eb" opacity="0.35" stroke="none" />
+<text x="83.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Arrival</text>
+<rect x="70.0" y="110.0" width="26.0" height="662.0" fill="#c46210" opacity="0.95" rx="8" />
+<text x="106.0" y="440.0" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">ED</text>
+<text x="106.0" y="458.0" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=616</text>
+<text x="334.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 1</text>
+<rect x="321.0" y="110.0" width="26.0" height="160.1" fill="#8b5cf6" opacity="0.95" rx="8" />
+<text x="357.0" y="189.1" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">OR</text>
+<text x="357.0" y="207.1" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=149</text>
+<rect x="321.0" y="288.1" width="26.0" height="501.9" fill="#0f766e" opacity="0.95" rx="8" />
+<text x="357.0" y="538.1" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">ICU</text>
+<text x="357.0" y="556.1" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=467</text>
+<text x="585.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 2</text>
+<rect x="572.0" y="110.0" width="26.0" height="219.2" fill="#8b5cf6" opacity="0.95" rx="8" />
+<text x="608.0" y="218.6" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">OR</text>
+<text x="608.0" y="236.6" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=204</text>
+<rect x="572.0" y="347.2" width="26.0" height="160.1" fill="#0f766e" opacity="0.95" rx="8" />
+<text x="608.0" y="426.3" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">ICU</text>
+<text x="608.0" y="444.3" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=149</text>
+<rect x="572.0" y="525.4" width="26.0" height="197.7" fill="#2563eb" opacity="0.95" rx="8" />
+<text x="608.0" y="623.2" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Ward</text>
+<text x="608.0" y="641.2" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=184</text>
+<rect x="572.0" y="741.1" width="26.0" height="32.2" fill="#16a34a" opacity="0.95" rx="8" />
+<text x="608.0" y="756.2" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Discharge</text>
+<text x="608.0" y="774.2" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=30</text>
+<rect x="572.0" y="791.3" width="26.0" height="52.7" fill="#dc2626" opacity="0.95" rx="8" />
+<text x="608.0" y="816.7" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Death</text>
+<text x="608.0" y="834.7" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=49</text>
+<text x="836.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 3</text>
+<rect x="823.0" y="116.4" width="26.0" height="126.8" fill="#8b5cf6" opacity="0.95" rx="8" />
+<text x="859.0" y="178.9" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">OR</text>
+<text x="859.0" y="196.9" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=118</text>
+<rect x="823.0" y="261.3" width="26.0" height="202.0" fill="#0f766e" opacity="0.95" rx="8" />
+<text x="859.0" y="361.3" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">ICU</text>
+<text x="859.0" y="379.3" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=188</text>
+<rect x="823.0" y="481.3" width="26.0" height="65.6" fill="#2563eb" opacity="0.95" rx="8" />
+<text x="859.0" y="513.1" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Ward</text>
+<text x="859.0" y="531.1" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=61</text>
+<rect x="823.0" y="564.9" width="26.0" height="153.7" fill="#16a34a" opacity="0.95" rx="8" />
+<text x="859.0" y="640.7" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Discharge</text>
+<text x="859.0" y="658.7" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=143</text>
+<rect x="823.0" y="736.5" width="26.0" height="29.0" fill="#dc2626" opacity="0.95" rx="8" />
+<text x="859.0" y="750.0" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Death</text>
+<text x="859.0" y="768.0" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=27</text>
+<text x="1087.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 4</text>
+<rect x="1074.0" y="207.8" width="26.0" height="98.9" fill="#8b5cf6" opacity="0.95" rx="8" />
+<text x="1110.0" y="256.2" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">OR</text>
+<text x="1110.0" y="274.2" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=92</text>
+<rect x="1074.0" y="324.7" width="26.0" height="95.6" fill="#0f766e" opacity="0.95" rx="8" />
+<text x="1110.0" y="371.5" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">ICU</text>
+<text x="1110.0" y="389.5" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=89</text>
+<rect x="1074.0" y="438.3" width="26.0" height="138.6" fill="#2563eb" opacity="0.95" rx="8" />
+<text x="1110.0" y="506.6" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Ward</text>
+<text x="1110.0" y="524.6" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=129</text>
+<rect x="1074.0" y="594.9" width="26.0" height="49.4" fill="#16a34a" opacity="0.95" rx="8" />
+<text x="1110.0" y="618.7" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Discharge</text>
+<text x="1110.0" y="636.7" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=46</text>
+<rect x="1074.0" y="662.4" width="26.0" height="11.8" fill="#dc2626" opacity="0.95" rx="8" />
+<text x="1110.0" y="664.2" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Death</text>
+<text x="1110.0" y="682.2" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=11</text>
+<text x="1338.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 5</text>
+<rect x="1325.0" y="238.4" width="26.0" height="73.1" fill="#8b5cf6" opacity="0.95" rx="8" />
+<text x="1361.0" y="274.0" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">OR</text>
+<text x="1361.0" y="292.0" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=68</text>
+<rect x="1325.0" y="329.5" width="26.0" height="88.1" fill="#0f766e" opacity="0.95" rx="8" />
+<text x="1361.0" y="372.6" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">ICU</text>
+<text x="1361.0" y="390.6" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=82</text>
+<rect x="1325.0" y="435.6" width="26.0" height="67.7" fill="#2563eb" opacity="0.95" rx="8" />
+<text x="1361.0" y="468.5" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Ward</text>
+<text x="1361.0" y="486.5" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=63</text>
+<rect x="1325.0" y="521.3" width="26.0" height="101.0" fill="#16a34a" opacity="0.95" rx="8" />
+<text x="1361.0" y="570.8" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Discharge</text>
+<text x="1361.0" y="588.8" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=94</text>
+<rect x="1325.0" y="640.4" width="26.0" height="3.2" fill="#dc2626" opacity="0.95" rx="8" />
+<text x="1361.0" y="633.6" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Death</text>
+<text x="1361.0" y="651.6" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=3</text>
+<text x="1589.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 6</text>
+<rect x="1576.0" y="290.5" width="26.0" height="50.5" fill="#8b5cf6" opacity="0.95" rx="8" />
+<text x="1612.0" y="314.8" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">OR</text>
+<text x="1612.0" y="332.8" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=47</text>
+<rect x="1576.0" y="359.1" width="26.0" height="48.4" fill="#0f766e" opacity="0.95" rx="8" />
+<text x="1612.0" y="382.2" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">ICU</text>
+<text x="1612.0" y="400.2" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=45</text>
+<rect x="1576.0" y="425.4" width="26.0" height="76.3" fill="#2563eb" opacity="0.95" rx="8" />
+<text x="1612.0" y="462.6" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Ward</text>
+<text x="1612.0" y="480.6" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=71</text>
+<rect x="1576.0" y="519.7" width="26.0" height="49.4" fill="#16a34a" opacity="0.95" rx="8" />
+<text x="1612.0" y="543.4" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Discharge</text>
+<text x="1612.0" y="561.4" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=46</text>
+<rect x="1576.0" y="587.2" width="26.0" height="4.3" fill="#dc2626" opacity="0.95" rx="8" />
+<text x="1612.0" y="581.5" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Death</text>
+<text x="1612.0" y="599.5" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=4</text>
+<text x="1840.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 7</text>
+<rect x="1827.0" y="308.4" width="26.0" height="1.1" fill="#c46210" opacity="0.95" rx="8" />
+<text x="1863.0" y="299.5" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">ED</text>
+<text x="1863.0" y="317.5" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=1</text>
+<rect x="1827.0" y="327.5" width="26.0" height="38.7" fill="#8b5cf6" opacity="0.95" rx="8" />
+<text x="1863.0" y="345.8" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">OR</text>
+<text x="1863.0" y="363.8" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=36</text>
+<rect x="1827.0" y="384.2" width="26.0" height="40.8" fill="#0f766e" opacity="0.95" rx="8" />
+<text x="1863.0" y="403.6" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">ICU</text>
+<text x="1863.0" y="421.6" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=38</text>
+<rect x="1827.0" y="443.0" width="26.0" height="39.8" fill="#2563eb" opacity="0.95" rx="8" />
+<text x="1863.0" y="461.9" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Ward</text>
+<text x="1863.0" y="479.9" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=37</text>
+<rect x="1827.0" y="500.8" width="26.0" height="53.7" fill="#16a34a" opacity="0.95" rx="8" />
+<text x="1863.0" y="526.6" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Discharge</text>
+<text x="1863.0" y="544.6" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=50</text>
+<rect x="1827.0" y="572.5" width="26.0" height="1.1" fill="#dc2626" opacity="0.95" rx="8" />
+<text x="1863.0" y="563.6" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Death</text>
+<text x="1863.0" y="581.6" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=1</text>
+<text x="2091.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 8</text>
+<rect x="2078.0" y="344.8" width="26.0" height="26.9" fill="#8b5cf6" opacity="0.95" rx="8" />
+<text x="2114.0" y="357.3" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">OR</text>
+<text x="2114.0" y="375.3" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=25</text>
+<rect x="2078.0" y="389.7" width="26.0" height="23.6" fill="#0f766e" opacity="0.95" rx="8" />
+<text x="2114.0" y="400.5" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">ICU</text>
+<text x="2114.0" y="418.5" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=22</text>
+<rect x="2078.0" y="431.3" width="26.0" height="38.7" fill="#2563eb" opacity="0.95" rx="8" />
+<text x="2114.0" y="449.7" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Ward</text>
+<text x="2114.0" y="467.7" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=36</text>
+<rect x="2078.0" y="488.0" width="26.0" height="29.0" fill="#16a34a" opacity="0.95" rx="8" />
+<text x="2114.0" y="501.5" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Discharge</text>
+<text x="2114.0" y="519.5" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=27</text>
+<rect x="2078.0" y="535.0" width="26.0" height="2.1" fill="#dc2626" opacity="0.95" rx="8" />
+<text x="2114.0" y="527.2" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Death</text>
+<text x="2114.0" y="545.2" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=2</text>
+<text x="2342.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 9</text>
+<rect x="2329.0" y="369.4" width="26.0" height="19.3" fill="#8b5cf6" opacity="0.95" rx="8" />
+<text x="2365.0" y="378.1" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">OR</text>
+<text x="2365.0" y="396.1" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=18</text>
+<rect x="2329.0" y="406.7" width="26.0" height="12.9" fill="#0f766e" opacity="0.95" rx="8" />
+<text x="2365.0" y="409.6" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">ICU</text>
+<text x="2365.0" y="427.6" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=12</text>
+<rect x="2329.0" y="437.6" width="26.0" height="29.0" fill="#2563eb" opacity="0.95" rx="8" />
+<text x="2365.0" y="451.1" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Ward</text>
+<text x="2365.0" y="469.1" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=27</text>
+<rect x="2329.0" y="484.7" width="26.0" height="27.9" fill="#16a34a" opacity="0.95" rx="8" />
+<text x="2365.0" y="497.6" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Discharge</text>
+<text x="2365.0" y="515.6" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=26</text>
+<text x="2593.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 10</text>
+<rect x="2580.0" y="383.4" width="26.0" height="8.6" fill="#8b5cf6" opacity="0.95" rx="8" />
+<text x="2616.0" y="382.0" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">OR</text>
+<text x="2616.0" y="400.0" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=8</text>
+<rect x="2580.0" y="410.0" width="26.0" height="8.6" fill="#0f766e" opacity="0.95" rx="8" />
+<text x="2616.0" y="408.6" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">ICU</text>
+<text x="2616.0" y="426.6" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=8</text>
+<rect x="2580.0" y="436.6" width="26.0" height="18.3" fill="#2563eb" opacity="0.95" rx="8" />
+<text x="2616.0" y="444.7" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Ward</text>
+<text x="2616.0" y="462.7" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=17</text>
+<rect x="2580.0" y="472.8" width="26.0" height="25.8" fill="#16a34a" opacity="0.95" rx="8" />
+<text x="2616.0" y="484.7" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Discharge</text>
+<text x="2616.0" y="502.7" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=24</text>
+<text x="2844.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 11</text>
+<rect x="2831.0" y="396.3" width="26.0" height="2.1" fill="#8b5cf6" opacity="0.95" rx="8" />
+<text x="2867.0" y="388.4" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">OR</text>
+<text x="2867.0" y="406.4" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=2</text>
+<rect x="2831.0" y="416.4" width="26.0" height="2.1" fill="#0f766e" opacity="0.95" rx="8" />
+<text x="2867.0" y="408.6" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">ICU</text>
+<text x="2867.0" y="426.6" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=2</text>
+<rect x="2831.0" y="436.6" width="26.0" height="12.9" fill="#2563eb" opacity="0.95" rx="8" />
+<text x="2867.0" y="439.5" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Ward</text>
+<text x="2867.0" y="457.5" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=12</text>
+<rect x="2831.0" y="467.5" width="26.0" height="18.3" fill="#16a34a" opacity="0.95" rx="8" />
+<text x="2867.0" y="475.6" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Discharge</text>
+<text x="2867.0" y="493.6" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=17</text>
+<text x="3095.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 12</text>
+<rect x="3082.0" y="405.4" width="26.0" height="5.4" fill="#8b5cf6" opacity="0.95" rx="8" />
+<text x="3118.0" y="400.8" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">OR</text>
+<text x="3118.0" y="418.8" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=5</text>
+<rect x="3082.0" y="428.8" width="26.0" height="2.1" fill="#0f766e" opacity="0.95" rx="8" />
+<text x="3118.0" y="420.9" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">ICU</text>
+<text x="3118.0" y="438.9" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=2</text>
+<rect x="3082.0" y="448.9" width="26.0" height="1.1" fill="#2563eb" opacity="0.95" rx="8" />
+<text x="3118.0" y="440.0" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Ward</text>
+<text x="3118.0" y="458.0" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=1</text>
+<rect x="3082.0" y="468.0" width="26.0" height="8.6" fill="#16a34a" opacity="0.95" rx="8" />
+<text x="3118.0" y="466.6" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Discharge</text>
+<text x="3118.0" y="484.6" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=8</text>
+<text x="3346.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 13</text>
+<rect x="3333.0" y="409.7" width="26.0" height="2.1" fill="#8b5cf6" opacity="0.95" rx="8" />
+<text x="3369.0" y="401.9" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">OR</text>
+<text x="3369.0" y="419.9" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=2</text>
+<rect x="3333.0" y="429.9" width="26.0" height="1.1" fill="#0f766e" opacity="0.95" rx="8" />
+<text x="3369.0" y="420.9" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">ICU</text>
+<text x="3369.0" y="438.9" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=1</text>
+<rect x="3333.0" y="448.9" width="26.0" height="4.3" fill="#2563eb" opacity="0.95" rx="8" />
+<text x="3369.0" y="443.2" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Ward</text>
+<text x="3369.0" y="461.2" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=4</text>
+<rect x="3333.0" y="471.2" width="26.0" height="1.1" fill="#16a34a" opacity="0.95" rx="8" />
+<text x="3369.0" y="462.3" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Discharge</text>
+<text x="3369.0" y="480.3" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=1</text>
+<text x="3597.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 14</text>
+<rect x="3584.0" y="410.2" width="26.0" height="3.2" fill="#8b5cf6" opacity="0.95" rx="8" />
+<text x="3620.0" y="403.5" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">OR</text>
+<text x="3620.0" y="421.5" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=3</text>
+<rect x="3584.0" y="431.5" width="26.0" height="2.1" fill="#0f766e" opacity="0.95" rx="8" />
+<text x="3620.0" y="423.6" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">ICU</text>
+<text x="3620.0" y="441.6" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=2</text>
+<rect x="3584.0" y="451.6" width="26.0" height="1.1" fill="#2563eb" opacity="0.95" rx="8" />
+<text x="3620.0" y="442.7" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Ward</text>
+<text x="3620.0" y="460.7" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=1</text>
+<rect x="3584.0" y="470.7" width="26.0" height="1.1" fill="#16a34a" opacity="0.95" rx="8" />
+<text x="3620.0" y="461.8" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Discharge</text>
+<text x="3620.0" y="479.8" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=1</text>
+<text x="3848.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 15</text>
+<rect x="3835.0" y="428.8" width="26.0" height="5.4" fill="#2563eb" opacity="0.95" rx="8" />
+<text x="3871.0" y="424.1" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Ward</text>
+<text x="3871.0" y="442.1" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=5</text>
+<rect x="3835.0" y="452.1" width="26.0" height="1.1" fill="#16a34a" opacity="0.95" rx="8" />
+<text x="3871.0" y="443.2" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Discharge</text>
+<text x="3871.0" y="461.2" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=1</text>
+<text x="4099.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 16</text>
+<rect x="4086.0" y="420.3" width="26.0" height="3.2" fill="#8b5cf6" opacity="0.95" rx="8" />
+<text x="4122.0" y="413.5" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">OR</text>
+<text x="4122.0" y="431.5" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=3</text>
+<rect x="4086.0" y="441.5" width="26.0" height="1.1" fill="#0f766e" opacity="0.95" rx="8" />
+<text x="4122.0" y="432.6" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">ICU</text>
+<text x="4122.0" y="450.6" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=1</text>
+<rect x="4086.0" y="460.6" width="26.0" height="1.1" fill="#16a34a" opacity="0.95" rx="8" />
+<text x="4122.0" y="451.7" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Discharge</text>
+<text x="4122.0" y="469.7" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=1</text>
+<text x="4350.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 17</text>
+<rect x="4337.0" y="438.9" width="26.0" height="4.3" fill="#2563eb" opacity="0.95" rx="8" />
+<text x="4373.0" y="433.1" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Ward</text>
+<text x="4373.0" y="451.1" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=4</text>
+<text x="4601.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 18</text>
+<rect x="4588.0" y="429.9" width="26.0" height="1.1" fill="#8b5cf6" opacity="0.95" rx="8" />
+<text x="4624.0" y="420.9" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">OR</text>
+<text x="4624.0" y="438.9" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=1</text>
+<rect x="4588.0" y="448.9" width="26.0" height="3.2" fill="#16a34a" opacity="0.95" rx="8" />
+<text x="4624.0" y="442.1" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Discharge</text>
+<text x="4624.0" y="460.1" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=3</text>
+<text x="4852.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Transition 19</text>
+<rect x="4839.0" y="440.5" width="26.0" height="1.1" fill="#2563eb" opacity="0.95" rx="8" />
+<text x="4875.0" y="431.5" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Ward</text>
+<text x="4875.0" y="449.5" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=1</text>
+<text x="5103.0" y="96.0" fill="#475569" font-size="14" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="middle">Outcome</text>
+<rect x="5090.0" y="440.5" width="26.0" height="1.1" fill="#16a34a" opacity="0.95" rx="8" />
+<text x="5126.0" y="431.5" fill="#0f172a" font-size="13" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">Discharge</text>
+<text x="5126.0" y="449.5" fill="#475569" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="400" text-anchor="start">n=1</text>
+</svg>
